@@ -1,0 +1,65 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-25T07:52:38.793Z",
+  "slug": "kalpanaradhikayoga",
+  "name": "Satya Yoga Dana",
+  "city": "Christchurch",
+  "industry": {
+    "label": "Gyms & fitness studios",
+    "niche": "gyms & fitness studios",
+    "group": "Fitness & education"
+  },
+  "contact": {
+    "phone": "+919679910108",
+    "email": "satyayogadana@gmail.com",
+    "address": "83 Bealey Ave, Christchurch"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/284434102326223"
+  },
+  "about": {},
+  "before": {
+    "url": "https://www.kalpanaradhikayoga.com/",
+    "domain": "kalpanaradhikayoga.com",
+    "finalUrl": "https://www.kalpanaradhikayoga.com/",
+    "pages": 1,
+    "score": 64,
+    "assessedAt": "2026-11-11T13:44:42.238Z",
+    "issues": [
+      {
+        "id": "no-viewport",
+        "title": "Not mobile-friendly",
+        "evidence": "The page has no responsive viewport tag, so phones show a shrunken desktop layout."
+      },
+      {
+        "id": "no-contact-path",
+        "title": "No easy way to get in touch",
+        "evidence": "No tap-to-call link and no enquiry form on the homepage."
+      },
+      {
+        "id": "weak-title",
+        "title": "Weak or missing page title",
+        "evidence": "No <title> found, hurting Google search appearance."
+      },
+      {
+        "id": "no-meta-desc",
+        "title": "No search description",
+        "evidence": "No meta description, so Google chooses random page text for search results."
+      },
+      {
+        "id": "no-schema",
+        "title": "No local-business search markup",
+        "evidence": "No structured data, so Google has less to show for the business."
+      }
+    ],
+    "screenshot": "screenshots/before-desktop.jpg"
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/satya-yoga-dana/",
+    "repoUrl": "https://github.com/tova-studio/satya-yoga-dana",
+    "generator": "claude",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-25T07:52:38.793Z"
+  }
+}
